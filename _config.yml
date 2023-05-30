@@ -44,6 +44,13 @@ disqus-shortname: thedevslot
 author-name: Training Team
 # URL for the Image of the Author
 author-image: https://www.montana.edu/creativeservices/images/MSU-mm-sm.jpg
+author-image1: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/brad.jpg
+author-image2: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/jake.jpg
+author-image3: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/olivia.jpg
+author-image4: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/suzie.jpg
+author-image5: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/eli.jpg
+author-image6: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/brittany.jpg
+author-image7: https://montanastorytelling.github.io/beaded-bag-trainings/assets/images/stacey.jpg
 # 60 Words About the Author
 author-about: The storytelling project spans five departments at Montana State University, and involves undergraduate and graduate students, faculty, postdoctoral researchers, staff, and K-12 teachers throughout Montana. Our objective is to expose middle school students to basic computer science, and increase the accessibility of computer science throughout Montana.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
