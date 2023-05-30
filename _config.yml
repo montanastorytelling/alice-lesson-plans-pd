@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Culturally Responsive Computing in Middle School through Storytelling
+title: Culturally Responsive Computing in Middle School
 # Description of the Site
-description: The storytelling project spans five departments at Montana State University, and involves undergraduate and graduate students, faculty, postdoctoral researchers, staff, and K-12 teachers throughout Montana. Our objective is to expose middle school students to basic computer science, and increase the accessibility of computer science throughout the state.
+description: A project to expand the accessibility of computer science to middle schoolers in Montana, using storytelling.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -45,7 +45,7 @@ author-name: Training Team
 # URL for the Image of the Author
 author-image: https://www.montana.edu/creativeservices/images/MSU-mm-sm.jpg
 # 60 Words About the Author
-author-about: The storytelling training team includes graduate research assistants, postdoctoral researchers, faculty, and staff at Montana State University.
+author-about: The storytelling project spans five departments at Montana State University, and involves undergraduate and graduate students, faculty, postdoctoral researchers, staff, and K-12 teachers throughout Montana. Our objective is to expose middle school students to basic computer science, and increase the accessibility of computer science throughout Montana.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://www.montana.edu/storytelling/
 
