@@ -21,6 +21,9 @@
             </div> -->
             <!-- navbar items | right side -->
             <div class="navbar-end">
+                <a class="navbar-item {% if page.layout == 'default' %}is-active{% endif %}"
+                    href="{% if page.layout == 'default' %}{{site.url}}{{site.baseurl}}/#{% else %}{{site.url}}{{site.baseurl}}/{% endif %}">Home</a>
+                <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/#about">About</a>
                 <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/blog/intro">Intro</a>
                 <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/blog/alice">Alice</a>
                 <a class="navbar-item" href="{{site.url}}{{site.baseurl}}/blog/fundamentals">CS Fundamentals</a>
@@ -34,7 +37,7 @@
     </div>
 </nav>
 <!-- Bulma Navbar JS -->
-<script>
+<!-- <script>
     document.addEventListener('DOMContentLoaded', function () {
         /* Get all "navbar-burger" elements */
         var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
@@ -53,4 +56,4 @@
             });
         }
     });
-</script>
+</script> -->
