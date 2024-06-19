@@ -1,4 +1,8 @@
-# T4DS Workshop
+# Alice Lesson Plans PD
+
+To view the website, check it out [here](https://montanastorytelling.github.io/alice-lessons-pd/)!
+
+To contribute, check out the instructions in the [CONTRIBUTING.md](https://github.com/montanastorytelling/alice-lessons-pd/CONTRIBUTING.md) file
 
 ## Instructions for Contribution:
 
@@ -54,9 +58,9 @@ ___
 ___
 
 
-If you want to see the built site, check it out 
+If you want to see the built site, check it out
 [here](https://comptag.github.io/t4ds/). It normally takes 3 ish minutes to build.
-You can also do this locally using jekyll, though it's not the easiest to set up. 
+You can also do this locally using jekyll, though it's not the easiest to set up.
 In a time crunch, I recommend just doing this online.
 
 ---
