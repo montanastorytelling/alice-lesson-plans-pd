@@ -1,0 +1,159 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/variables",
+  {% endif %}
+
+  "bootstrap",
+
+  {% if site.bootwatch %}
+    "bootswatch/{{site.bootwatch | downcase}}/bootswatch",
+  {% endif %}
+
+  "syntax-highlighting",
+  "jekyll-doc-theme"
+;
+
+// Lesson formatting
+.important {
+  color: Red;
+  &:before {
+    font-weight: bold;
+    content: "[Important: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.teacher {
+  color: Purple;
+  &:before {
+    font-weight: bold;
+    content: "[Note for educators: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+
+.diff {
+  color: Green;
+  &:before {
+    font-weight: bold;
+    content: "[Differentiation opportunity: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+// Member comments
+.todo{
+  color: Red;
+  &:before {
+    font-weight: bold;
+    content: "[XXX TODO: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.jake {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Jake Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.brittany {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Brittany Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.stacey {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Stacey Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.suzie {
+  color: Magenta;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Suzie Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.lauren {
+  color: Orange;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Lauren Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.eli {
+  color: Orange;
+  &:before {
+    font-weight: bold;
+    content: "[XXX Eli Says: ";
+  }
+  &:after {
+    font-weight: bold;
+    content: "]";
+  }
+}
+.columns {
+    .button {
+        margin: 0.5rem !important;
+    }
+}
+
+hr {
+    margin: 1rem auto;
+    height: 1px;
+}
+
+.column {
+    margin: auto 0.5rem;
+    padding: 0.5rem;
+}
+
+.searchResult {
+    a {
+        .title {
+            text-decoration: underline;
+        }
+    }
+}

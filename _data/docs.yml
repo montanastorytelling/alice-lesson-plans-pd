@@ -1,0 +1,19 @@
+- title: Overview
+  docs:
+  - home
+
+- title: 1 Background Material
+  docs:
+  - 1-1
+  - 1-2
+
+- title: 2 Lesson Plans
+  docs:
+  - 2-1
+  - 2-2
+
+- title: Licensing
+  docs:
+  - about
+  - images
+  - ourlicense
