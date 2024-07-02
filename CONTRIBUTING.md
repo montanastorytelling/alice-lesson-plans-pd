@@ -1,22 +1,32 @@
 # Instructions for Contribution:
 
-1. After cloning the repo, add tutorials in the `_posts/` directory. Posts are in markdown and built into the site automatically.
-2. Title posts in the format: `yyyy-mm-dd-postname.md` For example, `2023-04-17-awesome-topology-stuff.md`
-3. When you're happy with your changes, push to the `gh-pages` directory
+1. After cloning the repo, add new sites as markdown files in the `_docs/`
+   directory. Docs are in markdown and built into the site automatically.
+2. When you're happy with your changes, push to the `gh-pages` branch of the
+   repository and view them
+[here](https://montanastorytelling.github.io/alice-lessons-pd/).
 
-## Writing a Post
+# Local builds
 
-Every post starts with a header so that the site can incorporate it properly. This is in the format:
+If you want to preview your changes before pushing to the gh-pages branch, you
+can use jekyll to do so. Once you have jekyll installed ([see
+instructions](https://jekyllrb.com/docs/installation/)), you can simply run
+`jekyll serve` in your terminal and then open the locally served site in your
+browser(something like: http://127.0.0.1:4000/alice-lessons-pd/).
+
+## Writing a page
+
+Every page starts with a header so that the site can incorporate it properly.
+This is in the format:
 
 ```
 ---
-title: Topology, Woohoo!
+title: CS Background
 layout: post
 post-image: "any link to an image, must be url, either within our site or somewhere else"
-description: Doing nifty stuff with topology in a time crunch
+description: Doing nifty stuff in a time crunch
 tags:
-- tutorials
-- topology
+- lessons
 - yadayadayada
 ---
 ```
@@ -51,12 +61,10 @@ ___
 > - Eat bagels
 ___
 
+# Dependencies
 
-If you want to see the built site, check it out
-[here](https://montanastorytelling.github.io/alice-lessons-pd/). It normally takes 3 ish minutes to build.
-You can also do this locally using jekyll, though it's not the easiest to set up.
-In a time crunch, I recommend just doing this online.
+The site is built using the [bootstrap](https://getbootstrap.com/) framework
+and [bootswatch](https://bootswatch.com/) themes. Additionally, the
+[bulma](https://bulma.io/) css framework is pulled in as a dependency.
+Thus, css formatting from these three frameworks are available.
 
----
-
-Dependencies: Uses **WhatATheme**, an awesome Jekyll theme. You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
