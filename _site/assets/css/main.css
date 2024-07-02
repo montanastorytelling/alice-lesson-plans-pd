@@ -2428,6 +2428,8 @@ button.close { padding: 0; cursor: pointer; background: transparent; border: 0; 
 
 @media print { .hidden-print { display: none !important; } }
 
+.logo { height: 1.5em; }
+
 /* width */
 ::-webkit-scrollbar { width: 0.5vmax !important; }
 
