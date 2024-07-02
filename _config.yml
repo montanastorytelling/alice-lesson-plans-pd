@@ -48,6 +48,9 @@ defaults:
     seo:
       type: "WebPage"
 
+# Disqus
+disqus-shortname: thedevslot
+
 collections:
   docs:
     permalink: /:collection/:path/
