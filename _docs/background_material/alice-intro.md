@@ -48,7 +48,7 @@ tags:
 
 ### Reading
 
-[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure.pdf)
+[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
 
 [Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short-1.png)
 
