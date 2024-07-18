@@ -50,7 +50,7 @@ tags:
 
 [Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure.pdf)
 
-[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short-1.png)(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short-2.png)
+[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short-1.png)
 
 ---
 
@@ -76,7 +76,7 @@ tags:
 
 ## Beaded Bag
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/beadbag.jpg)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beadbag.png)
 
 ## Idea Discussion
 
