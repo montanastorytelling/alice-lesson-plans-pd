@@ -50,8 +50,7 @@ tags:
 
 [Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure.pdf)
 
-[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short (1)-1.png)
-https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short (2)-1.png)
+[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short-1.png)(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short-2.png)
 
 ---
 
