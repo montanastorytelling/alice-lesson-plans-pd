@@ -13,11 +13,11 @@ tags:
 
 ### A First Glimpse
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/day1-statement1.jpg)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-statement1.png)
 
 ### Explore Alice
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/annotated_world.jpg)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world.png)
 
 ### Discussion I
 
