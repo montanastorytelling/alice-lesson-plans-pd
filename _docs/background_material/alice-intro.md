@@ -9,7 +9,7 @@ tags:
 
 ## Horses Lesson Plan
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/starter_world.jpg)
+![alt text](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/starter_world.jpg)
 
 ### A First Glimpse
 
