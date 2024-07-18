@@ -17,7 +17,7 @@ tags:
 
 ### Explore Alice
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world.pdf)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world-1.png)
 
 ### Discussion I
 
@@ -44,13 +44,14 @@ tags:
 
 ## Beaded Bag Objectives
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/venn-bb.pdf)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/venn-bb-1.png)
 
 ### Reading
 
 [Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure.pdf)
 
-[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.pdf)
+[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short (1)-1.png)
+https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short (2)-1.png)
 
 ---
 
