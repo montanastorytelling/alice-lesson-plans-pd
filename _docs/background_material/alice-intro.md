@@ -17,7 +17,7 @@ tags:
 
 ### Explore Alice
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world.png)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world.pdf)
 
 ### Discussion I
 
