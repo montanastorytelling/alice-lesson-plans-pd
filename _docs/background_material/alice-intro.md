@@ -44,13 +44,13 @@ tags:
 
 ## Beaded Bag Objectives
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/venn-bb.jpg)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/venn-bb.pdf)
 
 ### Reading
 
-[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/reading-full-brochure.pdf)
+[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure.pdf)
 
-[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/images/reading-short.pdf)
+[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.pdf)
 
 ---
 
