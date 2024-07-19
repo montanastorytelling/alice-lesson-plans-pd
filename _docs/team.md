@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: Team
 post-image: "https://benholmgren.github.io/t4ds-2023/assets/images/ridge.JPG"
 description: Introduction to the storytelling project
 tags:

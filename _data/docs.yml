@@ -1,6 +1,7 @@
-- title: Overview
+- title: Intro
   docs:
-  - /docs/home
+  - /docs/index
+  - /docs/team
 
 - title: 1 Background Material
   docs:
