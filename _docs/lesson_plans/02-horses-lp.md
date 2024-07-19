@@ -1,6 +1,5 @@
 ---
 title: Horses Lesson Plan
-layout: post
 post-image:
 description:
 tags:

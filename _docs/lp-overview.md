@@ -1,6 +1,5 @@
 ---
 title: Overview of Other Lesson Plans
-layout: post
 post-image:
 description:
 tags:

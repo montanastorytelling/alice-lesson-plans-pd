@@ -1,6 +1,5 @@
 ---
 title: Beaded Bag Lesson Plan
-layout: post
 post-image:
 description:
 tags:

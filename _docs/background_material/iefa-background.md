@@ -1,6 +1,5 @@
 ---
 title: IEFA Background
-layout: post
 post-image:
 description:
 tags:

@@ -1,6 +1,5 @@
 ---
 title: CS Fundamentals
-layout: post
 post-image:
 description:
 tags:
