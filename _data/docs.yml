@@ -1,14 +1,13 @@
-- title: Intro
+- title: Main
   docs:
-  - /docs/index
-  - /docs/team
+  - /docs/home
 
-- title: 1 Background Material
+- title: Background Material
   docs:
   - /docs/background_material/alice-intro
   - /docs/background_material/cs-fundamentals
 
-- title: 2 Lesson Plans
+- title: Lesson Plans
   docs:
   - /docs/lesson_plans/01-beaded-bag-lp
   - /docs/lesson_plans/02-horses-lp
