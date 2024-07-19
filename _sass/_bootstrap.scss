@@ -5,7 +5,6 @@
  */
 
 
-
 // Core variables and mixins
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
@@ -57,66 +56,4 @@
 @import "bootstrap/utilities";
 @import "bootstrap/responsive-utilities";
 
-@import "storytelling";
-
-// NOTE: delete below...
-/* width */
-::-webkit-scrollbar {
-  width: 0.5vmax !important;
-}
-
-/* Track */
-::-webkit-scrollbar-track {
-  background: white !important;
-}
-
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #363636 !important;
-}
-
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-  background: black !important;
-}
-
-::placeholder {
-  font-family: 'Poppins', sans-serif;
-}
-
-#navbar {
-  .navbar-burger {
-    span:nth-child(2) {
-      left: calc(50%);
-      width: 8px;
-    }
-  }
-}
-
-.is-active {
-  font-weight: bold;
-}
-
-.columns {
-  .button {
-    margin: 0.5rem !important;
-  }
-}
-
-hr {
-  margin: 1rem auto;
-  height: 1px;
-}
-
-.column {
-  margin: auto 0.5rem;
-  padding: 0.5rem;
-}
-
-.searchResult {
-  a {
-    .title {
-      text-decoration: underline;
-    }
-  }
-}
+// @import "storytelling";

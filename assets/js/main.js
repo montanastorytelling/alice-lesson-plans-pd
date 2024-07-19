@@ -24,7 +24,8 @@ $(function () {
   }
 
   function styleContentToMD() {
-    $('#markdown-content-container table').addClass('table');
+    $('#markdown-content-container table').addClass('table'); // TBODY
+    $('#markdown-content-container .table').find('tr').find('td:first-child').addClass('text-nowrap'); // Disable Wrap on first table item
     $('#markdown-content-container img').addClass('img-responsive');
   }
 

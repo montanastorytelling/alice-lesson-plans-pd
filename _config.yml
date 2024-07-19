@@ -1,5 +1,5 @@
 # Site settings
-title: Story Telling
+title: Alice Storytelling PD Trainings
 email: storytelling@montana.edu
 description: >
   Alice Lessons Professional Development
@@ -24,12 +24,16 @@ plugins:
   - jekyll-sitemap
 
 exclude:
+  # Resources unavailable for sharing due to copyright
+  - /f/backup/
+  - _config.yml
   - Gemfile
   - Gemfile.lock
   - .idea/
   - .gitignore
   - README.md
   - vendor
+  - .DS_Store
 
 defaults:
 - scope:
@@ -38,7 +42,6 @@ defaults:
   values:
     layout: post
     sectionid: blog
-
 - scope:
     path: _docs
     type: docs

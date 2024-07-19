@@ -5,39 +5,36 @@ permalink: /docs/about/
 
 ## Grant Title
 
-Collaborative Research: Indian Education in Computing: a Montana Story
+Improving the Pathway for Rural and American Indian Students Entering Computer Science Via Storytelling
 
-## MSU Grant Information
+## NSF Info
 
-* Award Number: DRL 2031795
+* Grant number: NSF DRL 1657553
+* Start date: August 1, 2017
+* End date: July 31, 2022
+* Amount: $1,165,696
 * PI: Fasy
-* co-PI: Hancock
-* Former co-PI: Peters
+* co-PIs: Hancock, Komlos, Windchief
+* Former co-PIs: Fisher, Wittie
+* [public abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657553&HistoricalAwards=false)
 
-## USU Grant Information
-
-* Award Number: DRL 2031279
-* PI: Searle
-* co-PI: Tofel-Grehl
-
-### Grant Acknowledgement:
+## Grant Acknowledgement:
 
 ```
 This material is based upon work supported by the National Science Foundation under
-Grant No. NSF DRL 2031795 (MSU) and DRL 2031279 (USU).
+Grant No. NSF DRL 1657553.
 ```
 
-### Land Acknowledgement:
+## Acknowledgement: 
 
+We must include the following acknowledgement for any publication (including web pages) or of any material based on or developed under this project:
 ```
-We acknowledge that MSU and the schools we work with are on the ancestral lands of
-American Indians, past and present. We honor and respect the twelve tribal nations
-that call Montana home today through our work with Montana students and their teachers,
-and we draw inspiration from the stories of these peoples whose oral histories embody
-this land.
+This material is based upon work supported by the National Science Foundation under
+Grant No. NSF DRL 1657553.
 ```
+This should also be included in any presentation. For interviews (radio or other), please be sure to verbally acknowledge the funding support.
 
-### Disclaimer:
+## Disclaimer: 
 
 ```
 Any opinions, findings, and conclusions or recommendations expressed in this material are

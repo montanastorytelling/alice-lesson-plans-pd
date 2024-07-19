@@ -1,28 +1,28 @@
 - title: Overview
   docs:
-  - home
+  - /docs/home
 
 - title: 1 Background Material
   docs:
-  - background_material/alice-intro
-  - background_material/cs-fundamentals
+  - /docs/background_material/alice-intro
+  - /docs/background_material/cs-fundamentals
 
 - title: 2 Lesson Plans
   docs:
-  - lesson_plans/01-beaded-bag-lp
-  - lesson_plans/02-horses-lp
-  - lesson_plans/03-other-lps
+  - /docs/lesson_plans/01-beaded-bag-lp
+  - /docs/lesson_plans/02-horses-lp
+  - /docs/lesson_plans/03-other-lps
 
 - title: LP Overview
   docs:
-  - lp-overview
+  - /docs/lp-overview
 
 - title: Assessment
   docs:
-  - assessment
+  - /docs/ssessment
 
 - title: Licensing
   docs:
-  - about
-  - images
-  - ourlicense
+  - /docs/about
+  - /docs/images
+  - /docs/ourlicense
