@@ -1,30 +1,37 @@
 <nav class="navbar navbar-default navbar-fixed-top">
     <div class="container navbar-container">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li {% if page.sectionid=='Docs' %} class="active" {% endif %}><a class="navbar-brand" href="https://montanastorytelling.github.io/">
-                <span><img src="{{ "/assets/img/storytelling-logo-transparent-64x64.png" | relative_url }}" alt="Logo"></span>
-            </a></li>
-                <li {% if page.sectionid=='Docs' %} class="active" {% endif
-            %}><a class="navbar-brand"
-              href="https://montanastorytelling.github.io/alice-lessons/overview/">
-                <span></span> Lesson Plans
-            </a></li>
-                <li {% if page.sectionid=='Docs' %} class="active" {% endif
-          %}><a
-            href="https://montanastorytelling.github.io/alice-lessons-pd/docs/index">Professional Development</a></li>
+                <li {% if page.sectionid=='Docs' %} class="active" {% endif %}>
+                    <a class="navbar-brand" href="https://montanastorytelling.github.io/">
+                        <span><img src="{{"/assets/img/storytelling-logo-transparent-64x64.png" | relative_url }}" alt="Logo"></span>
+                    </a>
+                </li>
+                <li {% if page.sectionid=='Docs' %} class="active" {% endif %}>
+                    <a href="https://montanastorytelling.github.io/alice-lessons/overview/">
+                        <span></span> Lesson Plans
+                    </a>
+                </li>
+                <li {% if page.sectionid=='Docs' %} class="active" {% endif %}>
+                    <a href="https://montanastorytelling.github.io/alice-lessons-pd/docs/index">Professional
+                        Development</a>
+                </li>
             </ul>
             <div class="navbar-right">
                 <ul class="nav navbar-nav">
-          <li><a href="{{ site.git_address }}"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                    <!-- <li>
+                        <a href="{{ site.git_address }}"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    </li> -->
+                </ul>
             </div>
         </div>
     </div>
