@@ -1,62 +1,19 @@
 ---
-title: ""
+title: Alice Professional Development Lesson Plans
+permalink: /docs/home
+title: Overview
 ---
 
-{% include jumbotron.html %}
+## An Overview of the Ledger Art Curriculum
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-6">
-            <h2 class="header-light regular-pad">What is The Alice Stortelling Curriculum?</h2>
-            <p class="lead">
-                The storytelling project spans five departments at Montana State University, and involves undergraduate and graduate students, faculty, postdoctoral researchers, staff, and K-12 teachers throughout Montana. Our objective is to expose middle school students to basic computer science, and increase the accessibility of computer science throughout Montana.<br>
-            </p>
-            <p><a class="btn btn-primary" href="{{ "/overview/" | relative_url }}" role="button">See the Lesson Plans</a></p>
-            <p>
-                This curriculum is developed as part of a grant in the <a href="https://www.montana.edu/storytelling/">the Storytelling Project</a>. For information about the ITEST grant which developed this curriculum please see, the <a href="{{ "/docs/about/" | relative_url }}">ITEST grant</a> page.
-                <!-- TODO Nathan: fix hyperlink -->
-                <!-- TODO Nathan: fix language -->
-            </p>
-        </div>
-        <div class="col-md-6 text-center">
-            <img src="{{ "/assets/img/storytelling-logo.png" | relative_url }}" alt="Storytelling logo" class="img-responsive">
-        </div>
-    </div>
-    <hr>
-    <div class="row">
-        <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-pencil" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Broadening Participation</h3>
-            <p>Our lessons use physical computing with textiles that are embedded with
-              electronics and then programmed by students. Because many teachers and
-              students believe that computing is difficult, these novel approaches enable
-              more broad access to computer science. They have been shown to not only engage
-              students and teachers in rigorous computing, but also to make computing fun.
-            </p>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-cogs" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Join Storytelling</h3>
-            <p><a href="https://www.montana.edu/storytelling/index.html">Here you can subscribe or unsubscribe to our Storytelling listserv</a>. This listserv
-              is not a community server or discussion group where people can respond to members,
-              but only for periodic announcements and information coming from the Storytelling project.
-              Email frequency is approximately once per month.
-          </p>
-        </div>
-        <div class="col-sm-4">
-            <h1 class="text-center"><i class="fa fa-code-fork" aria-hidden="true"></i></h1>
-            <h3 class="text-center">Land Acknowledgement</h3>
-            <p>
-                We acknowledge that Montana State University and the schools we work with
-                are on the ancestral lands of American Indians, including the A’aninin
-                (Gros Ventre), Amskapi/Piikani (Blackfeet), Annishinabe (Chippewa/Ojibway),
-                Annishinabe/Métis (Little Shell Chippewa), Apsáalooke (Crow), Ktunaxa/Ksanka
-                (Kootenai), Lakota, Dakota (Sioux), Nakoda (Assiniboine), Ne-i-yah-wahk
-                (Plains Cree), Qíispé (Pend d’Oreille), Seliš (Salish), and Tsétsêhéstâhese/So’taahe
-                (Northern Cheyenne). Through our work with Montana students and teachers, we honor
-                and respect these twelve tribal nations that call Montana home today, by drawing
-                inspiration from the stories of these communities whose oral histories embody this land.
-          </p>
-        </div>
-    </div>
-</div>
+This curriculum introduces students to developing and animating stories in Alice, a user-friendly programming envioronment. It was developed to incorporate Montana Indian Education for All (IEFA) standards and Montana Computer Science (CS) standards.
+
+
+### Teacher-Only Resources for this Curriculum
+
+
+### Lesson Plan 4: Indian Plateau Beaded Bags
+<span class="todo">TODO - In Development</span>
+
+### Lesson Plan 6: How Wild Horses Were Captured
+<span class="todo">TODO - In Development</span>
