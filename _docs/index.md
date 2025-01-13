@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: //
+permalink: /
 layout: landing
 ---
 
