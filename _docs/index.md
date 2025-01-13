@@ -1,7 +1,7 @@
 ---
-title: Alice Professional Development Lesson Plans
-permalink: /docs/home/
 title: Overview
+permalink: /
+layout: landing
 ---
 
 ## An Overview of the Ledger Art Curriculum
