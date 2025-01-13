@@ -1,34 +1,45 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   {% for section in site.data.docs %}
     <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
           {% if section.docs.size == 1 %}
             {% assign item = section.docs[0] %}
             {% assign item_url = item | append:"/" %}
             {% assign p = site.docs | where:"url", item_url | first %}
-            <a data-parent="#accordion" href="{{ p.url  | relative_url }}" aria-expanded="false" >{{ section.title }}</a>
+            {% if item_url == page.url %}
+              {% assign collapsed = false %}
+            {% else %}
+              {% assign collapsed = true %}
+            {% endif %}
+            <div class="panel-heading"  style="background-color: {% if item_url
+              == page.url %}#2FA4E7{% else %}#eee{% endif %};  color: {% if item_url == page.url %}#fff{% endif %}" >
+            <h4 class="panel-title">
+              <a href="{{ p.url  | relative_url }}" aria-expanded="false" style="display: block; width: 100%; color: inherit; text-decoration: none;" >{{ section.title }}</a>
           {% else %}
-            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{forloop.index}}" aria-expanded="false" aria-controls="collapse-{{forloop.index}}">{{ section.title }}</a>
+            <div class="panel-heading">
+            <h4 class="panel-title">
+              <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse-{{forloop.index}}" aria-expanded="false" aria-controls="collapse-{{forloop.index}}" style="display: block; width: 100%; color: inherit; text-decoration: none;">{{ section.title }}</a>
           {% endif %}
         </h4>
       </div>
-      {% assign collapsed = true %}
-      {% for item in section.docs %}
-        {% assign item_url = item | append:"/" %}
-        {% if item_url == page.url %}
-          {% assign collapsed = false %}
-        {% endif %}
-      {% endfor %}
-      <div class="panel-collapse{% if collapsed %} collapse{% endif %}" id="collapse-{{forloop.index}}" role="tabpanel" aria-label="Side Navigation">
-        <div class="list-group">
-          {% for item in section.docs %}
-            {% assign item_url = item | append:"/" %}
-            {% assign p = site.docs | where:"url", item_url | first %}
-            <a class="list-group-item {% if item_url == page.url %}active{% endif %}" href="{{ p.url  | relative_url }}">{{ p.title }}</a>
-          {% endfor %}
+      {% if section.docs.size != 1 %}
+        {% assign collapsed = true %}
+        {% for item in section.docs %}
+          {% assign item_url = item | append:"/" %}
+          {% if item_url == page.url %}
+            {% assign collapsed = false %}
+          {% endif %}
+        {% endfor %}
+        <div class="panel-collapse{% if collapsed %} collapse{% endif %}" id="collapse-{{forloop.index}}" role="tabpanel" aria-label="Side Navigation">
+          <div class="list-group">
+            {% for item in section.docs %}
+              {% assign item_url = item | append:"/"%}
+              {% assign p = site.docs | where:"url", item_url | first %}
+              <a class="list-group-item {% if item_url == page.url %}active{% endif %}" href="{{ p.url | relative_url }}">{{ p.title }}</a>
+            {% endfor %}
+          </div>
         </div>
-      </div>
+        {% else %}
+        {% endif %}
     </div>
   {% endfor %}
 </div>
