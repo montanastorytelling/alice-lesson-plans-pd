@@ -1,6 +1,6 @@
 ---
 title: Alice Professional Development Lesson Plans
-permalink: /docs/home
+permalink: /docs/home/
 title: Overview
 ---
 
