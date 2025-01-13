@@ -1,12 +1,15 @@
 ---
 title: Overview
-permalink: /
+permalink: //
 layout: landing
 ---
 
 ## An Overview of the Ledger Art Curriculum
 
-This curriculum introduces students to developing and animating stories in Alice, a user-friendly programming envioronment. It was developed to incorporate Montana Indian Education for All (IEFA) standards and Montana Computer Science (CS) standards.
+This curriculum introduces students to developing and animating stories in
+Alice, a user-friendly programming envioronment. It was developed to
+incorporate Montana Indian Education for All (IEFA) standards and Montana
+Computer Science (CS) standards.
 
 
 ### Teacher-Only Resources for this Curriculum
