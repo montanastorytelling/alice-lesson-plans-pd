@@ -1,6 +1,6 @@
 - title: Main
   docs:
-  - /docs/home
+  - /docs/index
 
 - title: Background Material
   docs:
@@ -19,7 +19,7 @@
 
 - title: Assessment
   docs:
-  - /docs/ssessment
+  - /docs/assessment
 
 - title: Licensing
   docs:
